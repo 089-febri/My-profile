@@ -51,6 +51,7 @@ Saya memiliki ketertarikan dalam beberapa bidang, terutama:
 - 🤖 Teknologi
 - 📚 Belajar hal-hal baru
 - 🎮 Game dan teknologi digital
+  <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=089-febri&show_icons=true&theme=github_dark&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=089-febri&layout=compact&theme=github_dark&hide_border=true" /> </div>
 
 ---
 
