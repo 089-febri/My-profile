@@ -1,9 +1,12 @@
 # 👋 Halo, Saya M.FEBRI DWIDANASAPUTRA
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+M.FEBRI+DWIDANASAPUTRA+%3C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=100&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=%24+M.FEBRI+DWIDANASAPUTRA;%24+STUDENT+%7C+TECHNOLOGY+ENTHUSIAST;%24+ALWAYS+LEARNING+%26+BUILDING+%F0%9F%9A%80" />
 
-</div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
 
 </div>
 ## 👨‍💻 Tentang Saya
