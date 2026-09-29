@@ -83,3 +83,5 @@ https://089-febri.github.io/My-profile/biodata/
 <p align="center">
   <b>© 2026 M.FEBRI DWIDANASAPUTRA</b>
 </p>
+💙 Thanks for visiting my profile!
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=footer"/> </div> ```
