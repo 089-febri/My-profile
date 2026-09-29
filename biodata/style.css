@@ -1,119 +1,211 @@
-/* Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata M.FEBRI DWIDANASAPUTRA</title>
 
-/* Tampilan halaman */
-body {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #4facfe, #00f2fe);
-    color: #333;
-    min-height: 100vh;
-    padding: 40px 20px;
-}
+    <style>
+        /* Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-/* Container utama */
-.container {
-    max-width: 800px;
-    margin: auto;
-    background-color: white;
-    padding: 30px;
-    border-radius: 20px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-}
+        /* Tampilan halaman */
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #4facfe, #00f2fe);
+            color: #333;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
 
-/* Judul */
-h1 {
-    text-align: center;
-    color: #0077b6;
-    margin-bottom: 25px;
-}
+        /* Container utama */
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
 
-h2 {
-    color: #0077b6;
-    margin-top: 30px;
-    margin-bottom: 15px;
-    border-left: 5px solid #00b4d8;
-    padding-left: 10px;
-}
+        /* Judul */
+        h1 {
+            text-align: center;
+            color: #0077b6;
+            margin-bottom: 25px;
+        }
 
-/* Foto profil */
-.foto {
-    display: block;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin: 0 auto 25px;
-    border: 5px solid #00b4d8;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-}
+        h2 {
+            color: #0077b6;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-left: 5px solid #00b4d8;
+            padding-left: 10px;
+        }
 
-/* Tabel biodata */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-}
+        /* Foto profil */
+        .foto {
+            display: block;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 50%;
+            margin: 0 auto 25px;
+            border: 5px solid #00b4d8;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
 
-table td {
-    padding: 12px;
-    border-bottom: 1px solid #ddd;
-}
+        /* Tabel biodata */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
 
-table td:first-child {
-    width: 35%;
-    font-weight: bold;
-    color: #0077b6;
-}
+        table td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
 
-table tr:hover {
-    background-color: #f0fbff;
-}
+        table td:first-child {
+            width: 35%;
+            font-weight: bold;
+            color: #0077b6;
+        }
 
-/* Daftar */
-ul {
-    padding-left: 25px;
-}
+        table tr:hover {
+            background-color: #f0fbff;
+        }
 
-li {
-    margin-bottom: 10px;
-}
+        /* Daftar */
+        ul {
+            padding-left: 25px;
+        }
 
-/* Tentang saya */
-.tentang {
-    line-height: 1.8;
-    text-align: justify;
-}
+        li {
+            margin-bottom: 10px;
+        }
 
-/* Footer */
-footer {
-    text-align: center;
-    margin-top: 30px;
-    padding-top: 20px;
-    border-top: 1px solid #ddd;
-    color: #777;
-    font-size: 14px;
-}
+        /* Tentang saya */
+        .tentang {
+            line-height: 1.8;
+            text-align: justify;
+        }
 
-/* Tampilan HP */
-@media (max-width: 600px) {
-    body {
-        padding: 20px 10px;
-    }
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #777;
+            font-size: 14px;
+        }
 
-    .container {
-        padding: 20px;
-    }
+        /* Tampilan HP */
+        @media (max-width: 600px) {
+            body {
+                padding: 20px 10px;
+            }
 
-    h1 {
-        font-size: 24px;
-    }
+            .container {
+                padding: 20px;
+            }
 
-    table td {
-        padding: 10px;
-        font-size: 14px;
-    }
-}
+            h1 {
+                font-size: 24px;
+            }
+
+            table td {
+                padding: 10px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Biodata Diri</h1>
+
+        <img src="foto.jpg"
+             alt="Foto M.FEBRI DWIDANASAPUTRA"
+             class="foto">
+
+        <h2>Data Pribadi</h2>
+
+        <table>
+            <tr>
+                <td>Nama</td>
+                <td>M.FEBRI DWIDANASAPUTRA</td>
+            </tr>
+
+            <tr>
+                <td>Tempat, Tanggal Lahir</td>
+                <td>Pamekasan, 15 April 2005</td>
+            </tr>
+
+            <tr>
+                <td>Jenis Kelamin</td>
+                <td>Laki-laki</td>
+            </tr>
+
+            <tr>
+                <td>Alamat</td>
+                <td>Pamekasan</td>
+            </tr>
+
+            <tr>
+                <td>Agama</td>
+                <td>Islam</td>
+            </tr>
+
+            <tr>
+                <td>Status</td>
+                <td>Pelajar</td>
+            </tr>
+
+            <tr>
+                <td>Email</td>
+                <td>febri.d.s.a19@gmail.com</td>
+            </tr>
+        </table>
+
+        <h2>Pendidikan</h2>
+
+        <ul>
+            <li>MI</li>
+            <li>MTsN 3 Pamekasan</li>
+            <li>MA Sumber Bungur</li>
+        </ul>
+
+        <h2>Hobi</h2>
+
+        <ul>
+            <li>Membaca</li>
+            <li>Menonton film</li>
+            <li>Bermain game</li>
+        </ul>
+
+        <h2>Tentang Saya</h2>
+
+        <p class="tentang">
+            Saya adalah M.FEBRI DWIDANASAPUTRA, seorang pelajar yang
+            memiliki semangat untuk belajar dan mengembangkan kemampuan
+            di bidang teknologi.
+        </p>
+
+        <footer>
+            &copy; 2026 M.FEBRI DWIDANASAPUTRA
+        </footer>
+
+    </div>
+
+</body>
+</html>
