@@ -1,0 +1,119 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Tampilan halaman */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    color: #333;
+    min-height: 100vh;
+    padding: 40px 20px;
+}
+
+/* Container utama */
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Judul */
+h1 {
+    text-align: center;
+    color: #0077b6;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #0077b6;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-left: 5px solid #00b4d8;
+    padding-left: 10px;
+}
+
+/* Foto profil */
+.foto {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto 25px;
+    border: 5px solid #00b4d8;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Tabel biodata */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+table td:first-child {
+    width: 35%;
+    font-weight: bold;
+    color: #0077b6;
+}
+
+table tr:hover {
+    background-color: #f0fbff;
+}
+
+/* Daftar */
+ul {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Tentang saya */
+.tentang {
+    line-height: 1.8;
+    text-align: justify;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #777;
+    font-size: 14px;
+}
+
+/* Tampilan HP */
+@media (max-width: 600px) {
+    body {
+        padding: 20px 10px;
+    }
+
+    .container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    table td {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
