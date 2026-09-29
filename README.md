@@ -51,7 +51,42 @@ Saya memiliki ketertarikan dalam beberapa bidang, terutama:
 - 🤖 Teknologi
 - 📚 Belajar hal-hal baru
 - 🎮 Game dan teknologi digital
+---
 
+## 💻 `$ skills`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Beginner-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+## 📈 `$ learning_status`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║              DEVELOPER SKILLS               ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  HTML       ████████████████████  90%       ║
+║  CSS        ██████████████████░░  80%       ║
+║  Python     ████████████░░░░░░░░  60%       ║
+║  MySQL      ███████████░░░░░░░░░  55%       ║
+║  GitHub     ███████████████░░░░░  70%       ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
 ---
 
