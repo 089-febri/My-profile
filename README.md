@@ -1,7 +1,9 @@
 # 👋 Halo, Saya M.FEBRI DWIDANASAPUTRA
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=;WELCOME EVERYBODY+TO+MY+PROFILE;STUDENT+%7C+TECHNOLOGY+ENTHUSIAST" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+M.FEBRI+DWIDANASAPUTRA+%3C" />
+
+</div>
 
 </div>
 ## 👨‍💻 Tentang Saya
