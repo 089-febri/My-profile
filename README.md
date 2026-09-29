@@ -94,20 +94,3 @@ https://089-febri.github.io/My-profile/biodata/
 💙 Thanks for visiting my profile!
 <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=footer"/> </div> ```
 
-## ⛏️ `$ minecraft_world`
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/1qgIPm9bmOhRjANGGF/giphy.gif" width="700">
-
-</div>
-
-> 🌲 Exploring the world...
->
-> ⛏️ Mining...
->
-> 🧱 Building...
->
-> 💎 Searching for diamonds...
-
----
