@@ -70,9 +70,7 @@ Jika ingin menghubungi saya:
 
 *Email:*  
 📧 [febri.d.s.a19@gmail.com](mailto:febri.d.s.a19@gmail.com)
-📊 $ github_stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=089-febri&show_icons=true&theme=github_dark&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=089-febri&layout=compact&theme=github_dark&hide_border=true" /> </div>
----
+
 
 ## 🚀 Personal Portfolio
 
