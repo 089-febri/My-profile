@@ -71,36 +71,6 @@ Saya memiliki ketertarikan dalam beberapa bidang, terutama:
 
 ---
 
-## 📈 `$ learning_status`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║              DEVELOPER SKILLS               ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  HTML       ████████████████████  90%       ║
-║  CSS        ██████████████████░░  80%       ║
-║  Python     ████████████░░░░░░░░  60%       ║
-║  MySQL      ███████████░░░░░░░░░  55%       ║
-║  GitHub     ███████████████░░░░░  70%       ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-
----
-
-## 🎯 Tujuan
-
-> Terus belajar, berkembang, dan menciptakan sesuatu yang
-> bermanfaat melalui teknologi.
-
-Saya ingin terus meningkatkan kemampuan di bidang teknologi
-dan pemrograman dengan belajar melalui berbagai proyek
-dan pengalaman baru.
-
----
-
 ## 🎮 Hobi
 
 - 📖 Membaca
