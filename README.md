@@ -100,3 +100,5 @@ https://089-febri.github.io/My-profile/biodata/
 💙 Thanks for visiting my profile!
 <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=footer"/> </div> ```
 
+[Lihat Vidio P1](ISI_LINK_VIDEO_p1_DI_SINI)
+
