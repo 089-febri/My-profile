@@ -1,21 +1,3 @@
-Method
-GET
-URL
-https://httpbin.org/get
-Tujuan
-Menguji request GET dan melihat informasi request
-yang diterima oleh server HTTPBin.
-Data yang dikirim
-
-Untuk GET pertama ini:
-
-Tidak ada request body.
-Status
-200 OK
-Hasil
-
-HTTPBin mengembalikan informasi request dalam bentuk JSON, seperti query parameter, header, alamat origin, dan URL yang digunakan.
-
 
 
 ######################################### HTTP Method GET #########################################
