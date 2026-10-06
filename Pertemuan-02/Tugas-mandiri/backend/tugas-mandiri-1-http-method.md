@@ -18,7 +18,7 @@ HTTPBin mengembalikan informasi request dalam bentuk JSON, seperti query paramet
 
 
 
-####################################################################### HTTP Method GET ###########################################################################
+######################################### HTTP Method GET #########################################
 
 GET merupakan HTTP Method yang digunakan untuk mengambil atau meminta data dari server. Pada praktikum ini, pengujian dilakukan menggunakan Postman dengan URL `https://httpbin.org/get`.
 
