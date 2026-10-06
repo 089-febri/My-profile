@@ -32,7 +32,7 @@ Dengan demikian, pengujian GET menunjukkan bahwa client dapat meminta informasi 
 
 
 
-####################################################################### HTTP Method POST ##########################################################################
+######################################### HTTP Method POST #########################################
 
 POST merupakan HTTP Method yang digunakan untuk mengirim data dari client ke server. POST umumnya digunakan untuk membuat atau menambahkan data baru pada suatu sistem.
 
@@ -55,7 +55,7 @@ Dengan demikian, pengujian POST menunjukkan bagaimana client dapat mengirim data
 
 
 
-####################################################################### HTTP Method POST ##########################################################################
+######################################### HTTP Method POST #########################################
 
 POST merupakan HTTP Method yang digunakan untuk mengirim data dari client ke server. POST umumnya digunakan untuk membuat atau menambahkan data baru pada suatu sistem.
 
@@ -78,7 +78,7 @@ Dengan demikian, pengujian POST menunjukkan bagaimana client dapat mengirim data
 
 
 
-##################################################################### HTTP Method PATCH ###########################################################################
+######################################### HTTP Method PATCH #########################################
 
 PATCH merupakan HTTP Method yang digunakan untuk memperbarui sebagian data atau resource yang sudah ada pada server. PATCH disebut sebagai metode untuk melakukan **partial update**, karena client hanya perlu mengirimkan bagian data yang ingin diubah.
 
@@ -102,8 +102,7 @@ Dengan demikian, pengujian PATCH menunjukkan bagaimana client dapat mengirim per
 
 
 
-################################################################# HTTP Method DELETE ##############################################################################
-
+######################################### HTTP Method DELETE #########################################
 DELETE merupakan HTTP Method yang digunakan untuk menghapus suatu data atau resource dari server. Method ini biasanya digunakan ketika client ingin menghapus data yang sudah tidak diperlukan.
 
 Pada praktikum ini, pengujian DELETE dilakukan menggunakan Postman dengan URL `https://httpbin.org/delete`. Request dikirim tanpa menggunakan request body karena pada pengujian ini tidak diperlukan data tambahan.
@@ -125,7 +124,7 @@ Dengan demikian, pengujian DELETE menunjukkan bagaimana client dapat mengirim re
 |  5 | DELETE | `/delete` | -                 | 200    | Server menerima request DELETE dan mengembalikan informasi request |
 
 
-################################################################ (FOTO Screenshot) ###############################################################################
+######################################### (FOTO Screenshot) #########################################
 <img width="1917" height="1198" alt="Cuplikan layar 2026-10-06 234325" src="https://github.com/user-attachments/assets/b8d79274-66a9-4cb4-a161-475ea858864b" />
 <img width="1917" height="1197" alt="Cuplikan layar 2026-10-06 235355" src="https://github.com/user-attachments/assets/399a1297-d306-47dc-9014-92e138a7d8f0" />
 <img width="1917" height="1197" alt="Cuplikan layar 2026-10-06 235355" src="https://github.com/user-attachments/assets/6f278151-74d2-4f42-a753-373d23ad2918" />
