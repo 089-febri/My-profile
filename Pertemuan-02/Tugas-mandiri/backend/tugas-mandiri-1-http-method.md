@@ -37,7 +37,7 @@ Dengan demikian, pengujian POST menunjukkan bagaimana client dapat mengirim data
 
 
 
-######################################### HTTP Method POST #########################################
+######################################### HTTP Method PUT #########################################
 
 POST merupakan HTTP Method yang digunakan untuk mengirim data dari client ke server. POST umumnya digunakan untuk membuat atau menambahkan data baru pada suatu sistem.
 
