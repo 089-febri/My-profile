@@ -97,6 +97,12 @@ Dengan demikian, pengujian DELETE menunjukkan bagaimana client dapat mengirim re
 
 
 
+Pada Tugas Mandiri 1, dipelajari beberapa **HTTP Method** yang digunakan dalam komunikasi antara client dan server pada REST API, yaitu **GET, POST, PUT, PATCH, dan DELETE**. Setiap HTTP Method memiliki fungsi yang berbeda dalam mengelola data. **GET** digunakan untuk mengambil atau menampilkan data dari server, misalnya mengambil daftar data pengguna atau produk. **POST** digunakan untuk mengirim atau menambahkan data baru ke server, seperti menambahkan data pengguna baru. **PUT** digunakan untuk memperbarui atau mengganti data secara keseluruhan, sehingga data yang dikirim biasanya mencakup seluruh informasi yang ingin disimpan. **PATCH** digunakan untuk memperbarui sebagian data saja, sehingga tidak perlu mengirim seluruh informasi yang ada. Sementara itu, **DELETE** digunakan untuk menghapus data tertentu dari server.
+
+Kelima HTTP Method tersebut merupakan bagian penting dalam pembuatan dan penggunaan **REST API** karena memungkinkan aplikasi melakukan proses **CRUD (Create, Read, Update, Delete)**. POST berkaitan dengan proses **Create**, GET dengan **Read**, PUT dan PATCH dengan **Update**, sedangkan DELETE dengan **Delete**. Dengan memahami fungsi dari GET, POST, PUT, PATCH, dan DELETE, kita dapat mengetahui bagaimana sebuah aplikasi meminta, menambahkan, mengubah, dan menghapus data melalui server.
+
+
+
 | No | Method | Endpoint  | Data yang dikirim | Status | Hasil                                                              |
 | -: | ------ | --------- | ----------------- | ------ | ------------------------------------------------------------------ |
 |  1 | GET    | `/get`    | Query parameter   | 200    | Server mengembalikan informasi request                             |
