@@ -29,7 +29,7 @@ pengalaman dan kemampuan saya di bidang teknologi.
 | 🚹 Jenis Kelamin | Laki-laki |
 | 📍 Alamat | Pamekasan |
 | 🕌 Agama | Islam |
-| 🎓 Status | Pelajar |
+| 🎓 Status | MAHASISWA |
 | 📧 Email | febri.d.s.a19@gmail.com |
 
 ---
